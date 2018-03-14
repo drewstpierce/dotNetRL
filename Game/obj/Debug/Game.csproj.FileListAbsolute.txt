@@ -1,0 +1,9 @@
+C:\Users\drews\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\drews\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\drews\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\drews\source\repos\Game\Game\bin\Debug\Engine.dll
+C:\Users\drews\source\repos\Game\Game\bin\Debug\Engine.pdb
+C:\Users\drews\source\repos\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\drews\source\repos\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\drews\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\drews\source\repos\Game\Game\obj\Debug\Game.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roguelike", "Game\Roguelike.csproj", "{683E9FC6-591F-4CC4-A08A-B2090CB0A5B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{683E9FC6-591F-4CC4-A08A-B2090CB0A5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683E9FC6-591F-4CC4-A08A-B2090CB0A5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683E9FC6-591F-4CC4-A08A-B2090CB0A5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683E9FC6-591F-4CC4-A08A-B2090CB0A5B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB78CB5E-48E7-4A41-8D96-26CC6B071021}
+	EndGlobalSection
+EndGlobal

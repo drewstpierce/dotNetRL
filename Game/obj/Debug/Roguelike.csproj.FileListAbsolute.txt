@@ -1,0 +1,14 @@
+C:\Users\drews\source\repos\Game\Game\obj\Debug\Roguelike.csprojResolveAssemblyReference.cache
+C:\Users\drews\source\repos\Game\Game\obj\Debug\Roguelike.csproj.CoreCompileInputs.cache
+C:\Users\drews\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\drews\source\repos\Game\Game\obj\Debug\Game.pdb
+C:\Users\drews\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\drews\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\drews\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\drews\source\repos\Game\Game\bin\Debug\OpenTK.dll
+C:\Users\drews\source\repos\Game\Game\bin\Debug\RLNET.dll
+C:\Users\drews\source\repos\Game\Game\bin\Debug\RogueSharp.dll
+C:\Users\drews\source\repos\Game\Game\bin\Debug\OpenTK.xml
+C:\Users\drews\source\repos\Game\Game\bin\Debug\OpenTK.dll.config
+C:\Users\drews\source\repos\Game\Game\bin\Debug\RogueSharp.xml
+C:\Users\drews\source\repos\Game\Game\bin\Debug\terminal8x8.png
